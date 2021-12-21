@@ -1,0 +1,10 @@
+Task 1:
+git branch test
+
+Task2:
+git add file.txt
+git commit -m "Added file.txt to the test branch"
+
+Task3:
+git checkout master
+git merge test

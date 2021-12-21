@@ -1,0 +1,13 @@
+Task 1:
+docker run --name newContainer alpine:3.14
+
+Task 2:
+vim text.txt
+"This is a test file"
+wq
+
+Task 3:
+docker build .
+
+Task 4
+docker build -t Test
